@@ -1,5 +1,5 @@
 
-Feature: Price
+Feature: Price4
   <Some interesting description here>
 
   Scenario: Price1
